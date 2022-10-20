@@ -3,9 +3,9 @@ import './Footer.css';
 function Footer(props) {
     return (
         <footer className='footer'>
-            <div>SmartContract Address <br/>
+            <div>
               <a href={`https://etherscan.io/address/${props.address}`}>
-                  {props.address}
+              View Etherscan
               </a>
               </div>
 
