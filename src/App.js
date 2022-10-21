@@ -170,7 +170,7 @@ const App = () => {
             <p> Whitelist Price: 0.01 ETH + gas</p>
             <p> 2 mint Per Wallet</p>
             <p> Supply: 150</p>
-            <p className="warning">ホワイトリストはまだ反映されてません。</p>
+            {/* <p className="warning">ホワイトリストはまだ反映されてません。</p> */}
             <div className='banner-img'>
               <a href={OPENSEA_LINK}><img src={image}/></a>
             </div>
