@@ -166,10 +166,10 @@ const App = () => {
             <p> No Roadmap, No Discord, No Utility, No Rarity</p>
             <p> <a href="https://yuk6ra.com/northern-lights-project/">Document</a></p>
             <br/>
-            <p> Sale: 2022/10/21 21:00 JST ~ (Open: 48 hours)</p>
+            <p> Sale: 2022/11/18 21:00 JST ~ (Open: 48 hours)</p>
             <p> Whitelist Price: 0.01 ETH + gas</p>
             <p> 2 mint Per Wallet</p>
-            <p> Supply: 150</p>
+            <p> Supply: 150 (Minted 56)</p>
             {/* <p className="warning">ホワイトリストはまだ反映されてません。</p> */}
             <div className='banner-img'>
               <a href={OPENSEA_LINK}><img src={image}/></a>
