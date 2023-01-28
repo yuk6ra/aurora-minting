@@ -10,7 +10,7 @@ function Footer(props) {
               </div>
 
             <div className='footer-social-media-links'>
-                <p>Built by &nbsp;<a href='https://twitter.com/yuk6ra'>@yuk6ra</a></p>
+                <p>Built by &nbsp;<a href='https://twitter.com/y6studio'>@y6studio</a></p>
             </div>
         </footer>
     )
